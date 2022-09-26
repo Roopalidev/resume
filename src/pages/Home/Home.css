@@ -1,0 +1,25 @@
+.section_title{
+    position: relative;
+    display: inline-block;
+    padding:0 3px;
+}
+
+.section_title .section_text_title{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    margin:0;
+
+}
+
+.section_title span{
+    position: absolute;
+    height: 4px;
+    width:100%;
+    bottom:0;
+    background-color: var(--main-color);
+}
+.about{
+    margin-top: 30px !important;
+}
+

@@ -1,0 +1,24 @@
+.footer{
+    background-color: rgb(131, 130, 130) !important;
+     margin-bottom: 200px !important;
+     min-height: 70px ;
+     display: flex;
+     
+     justify-content: space-between;
+     border-radius: 10px !important;
+     padding-left: 20px !important;
+     padding-top: 20px !important;
+    
+}
+
+.footer .footer_copyright > a{
+    text-align: end;
+    color: var(--main-color);
+}
+.footer_right{
+    color: rgb(57, 57, 57) !important;
+}
+.footer_name{
+    color: rgb(229, 229, 229);
+    font-size: 20px !important;
+}

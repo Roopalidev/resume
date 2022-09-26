@@ -1,0 +1,12 @@
+.separator_padding{
+           color:rgb(68, 67, 67);
+}
+
+
+.timeline_title{
+    font-weight: bold !important;
+    font-style: italic !important;
+}
+.timeline_header{
+    font-weight: bold !important;
+}
