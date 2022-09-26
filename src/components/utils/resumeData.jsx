@@ -36,7 +36,7 @@ export default{
 
         },
         Resume:{
-            link:"http://www.github.com",
+            link:"https://github.com/Roopalidev/resume.git",
             text:"Resume Task",
             
         },
